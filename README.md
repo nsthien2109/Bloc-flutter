@@ -1,14 +1,16 @@
 # counter_bloc
 
-├── lib
-│   ├── counter
-│   │   ├── cubit
-│   │   │   └── counter_cubit.dart
-│   │   └── view
-│   │       ├── counter_page.dart
-│   │       └── counter_view.dart
-│   ├── counter_observer.dart
-│   └── main.dart
+Structure project : 
+
+    ├── lib
+    │   ├── counter
+    │   │   ├── cubit
+    │   │   │   └── counter_cubit.dart
+    │   │   └── view
+    │   │       ├── counter_page.dart
+    │   │       └── counter_view.dart
+    │   ├── counter_observer.dart
+    │   └── main.dart
 
 
 
@@ -38,3 +40,5 @@ counter_view.dart :
 counter_cubit.dart : 
 
     file này chứa hàm thực thi và sự kiện
+
+    a
